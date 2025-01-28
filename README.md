@@ -11,10 +11,3 @@ To start guessing choose your number range, specify your chance value and start 
  <img src="PVS/ppic.gif">
 </kbd>
 
-## Author
-- Github: [@Aminjjjeffrey](https://github.com/Aminjjjeffrey)
-- Twitter: [@Aminjjjeffrey](https://twitter.com/Aminjjjeffrey)
-
-
-
-
